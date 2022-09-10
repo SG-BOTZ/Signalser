@@ -1,12 +1,8 @@
 <div align="center">
   <p align="center">
 
-   <img 
-src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
-</p>
 
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+APARNA+MWOL+V2+REPO;CREATED+BY+KALIPPAN+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+SIGNAL+SER+REPO;CREATED+BY+SIGNAL;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -14,20 +10,20 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/icon1.jpg>
+<img src=Signalser.png>
 </p>
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--MIDHUN/KALIPPAN-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--ADIL/SIGNAL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-  <a href="https://instagram.com/_midhun_x3__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918281370025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/a_d_i_l_x_4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/919747765405"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 </a>
 <p align="center">
-Project created by <a href="https://github.com/KALIPPAN-SER02">KALIPPAN-SER</a> to make it public
+Project created by <a href="https://github.com/SG-BOTZ">SIGNAL</a> to make it public
     <br>
        | © |
         Reserved |
@@ -40,7 +36,7 @@ Project created by <a href="https://github.com/KALIPPAN-SER02">KALIPPAN-SER</a> 
 
   ### SIMPLE METHOD
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KALIPPAN-SER02/APARNAMWOL-V2.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SG-BOTZ/Signalser.git)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KalippanSer/KALIPPANSER-OR?v=1)
@@ -51,8 +47,8 @@ Project created by <a href="https://github.com/KALIPPAN-SER02">KALIPPAN-SER</a> 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2
-$ cd APARNA-MWOL_V2
+$ git clone https://github.com/SG-BOTZ/Signalser
+$ cd Signalser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -60,27 +56,11 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2
-$ cd APARNA-MWOL_V2
+$ git clone https://github.com/SG-BOTZ/Signalser
+$ cd Signalser
 $ npm i
 $ node julie.js
 ```
-
-----
-
-  <p align="center">
-  <a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/followers">
-    
-<a href="https://github.com/KALIPPAN-SER02/">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/Kalippan-Midhunx3/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KALIPPAN-SER02/APARNA-MWOL_V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2"><img title="Forks" src="https://img.shields.io/github/forks/KALIPPAN-SER02/APARNA-MWOL_V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KALIPPAN-SER02/APARNA-MWOL_V2?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-<div align="center">
     
 ### ⚠ WARING ⚠
 
@@ -88,16 +68,8 @@ $ node julie.js
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
 
 ```
-## DEVELOPERS
-  <div align="center">
-    
-  [![Midhunser](https://github.com/KALIPPAN-SER02.png?size=100)](https://github.com/Kalippan-Midhunx3) |  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|---
-[Midhunser](https://github.com/KALIPPAN-SER02)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
-    
 
+    
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
