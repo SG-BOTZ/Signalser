@@ -18,7 +18,7 @@
 </p>
 </div>
 <p align="center">
-  <a href="https://instagram.com/a_d_i_l_x_4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/a_d_i_l__x_4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/919747765405"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 </a>
